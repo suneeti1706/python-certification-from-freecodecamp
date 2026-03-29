@@ -1,5 +1,6 @@
 # python-certification-from-freecodecamp
-i post all the certification project i have done i that course here in this repository
+#i-post-all-the-certification-project-i have-done-in-that-course-here-in-this-repository
+
 def add_setting(settings, setting):
     key, value = setting
     key = key.lower()
